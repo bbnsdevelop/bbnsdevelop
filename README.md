@@ -1,10 +1,10 @@
 ![banner](https://github.com/bbnsdevelop/pessoal/blob/master/desktop-wallpaper.jpg?raw=true)
+
+
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">Senior full stack developer Java8+ & Angular 2+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbnsdevelop&label=Profile%20views&color=0e75b6&style=flat" alt="bbnsdevelop" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bbnsdevelop" alt="bbnsdevelop" /></a> </p>
 
 - 👨‍🍳🧙‍♂️🕵️‍♂️ I’m currently working on **Java8+,Spring and Angular 2+**
 
@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bbnsdevelop&show_icons=true&theme=dracula&locale=en" alt="bbnsdevelop" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bbnsdevelop&theme=dark" alt="bbnsdevelop" /></p>
-
