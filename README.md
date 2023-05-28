@@ -2,7 +2,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">Senior full stack developer Java8+ & Angular 2+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbnsdevelop&label=Profile%20views&color=0e75b6&style=flat" alt="bbnsdevelop" /> </p>
 
